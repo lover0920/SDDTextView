@@ -1,0 +1,2 @@
+# SDTextView
+自定义带placeholder的TextView，并取消的textView中的内边距
